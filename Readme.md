@@ -172,4 +172,5 @@ Runs real shell commands in a sandboxed workspace. No LLM involved. Pure determi
 If validation fails and retries remain, analyzes what went wrong and produces an improved fix strategy. Max 2 retries enforced.
 
 ### 6. Incident Report Agent
-Generates structured markdown report, GitHub PR description, and posts a comment. Works in demo mode without a real GitHub token.
+Generates structured markdown report, GitHub PR description, and posts a comment. Works in demo mode without a real GitHub token
+test trigger
